@@ -13,5 +13,5 @@ If meet error, try to break down pages, and refresh/wait for several mins to run
 😉❤️ <br />
 
  <br />
-![alt text](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/FXHfdoYWYAALXKx.jpeg)<br />
-![alt text](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg)<br />
+![alt text](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/FXHfdoYWYAALXKx.jpeg)
+![alt text](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg)
