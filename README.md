@@ -9,7 +9,9 @@ Used CoLab to run everything, csv file can save locally. <br />
 Might face problem when scraping multiple pages(sometimes have errors after 120 pages) <br />
 If meet error, try to break down pages, and refresh/wait for several mins to run again. <br />
 
-Also, come check my Twitter for Steddie Art Works on twitter@CherishFR999 <br />
-;) <br />
+**Also, come check my Twitter for Steddie Art Works on twitter@CherishFR999** <br />
+😉❤️ <br />
+
  <br />
+![Come check my Twitter for Steddie Art Works ;)]([https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/FXHfdoYWYAALXKx.jpeg))
 ![Come check my Twitter for Steddie Art Works ;)](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg)
