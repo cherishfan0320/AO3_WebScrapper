@@ -8,4 +8,4 @@ Used CoLab to run everything, csv file can save locally.
 Might face problem when scraping multiple pages(sometimes have errors after 120 pages)
 If meet error, try to break down pages, and refresh/wait for several mins to run again.
 
-![Come check my Twitter for Steddie Art Works ;)](https://drive.google.com/file/d/11AtwvTgCJ_feuZnUpBFDz5R0WeXrYrNd/view?usp=sharing)
+![Come check my Twitter for Steddie Art Works ;)](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg)
