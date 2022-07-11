@@ -14,4 +14,3 @@ If meet error, try to break down pages, and refresh/wait for several mins to run
 
  <br />
 ![steveH](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/FXHfdoYWYAALXKx.jpeg)
-![steddieKas](https://github.com/cherishfan0320/AO3_WebScrapper/blob/main/steddie_pic.jpeg)
