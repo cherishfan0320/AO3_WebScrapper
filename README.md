@@ -1,5 +1,5 @@
 ## AO3 Web Scrapper
-Web Scrape The best works(**have Kudo Rates 1/9**) on AO3, based on Famdom/Relationship and Additional Tags.  <br />
+Web Scrape The best works(**have Kudo Rates > 9 ~which means 9 hits & 1 kudo **) on AO3, based on Famdom/Relationship and Additional Tags.  <br />
 Hopefully output csv with Title, Author, Link and Description on Local Drive. <br />
 
 ## Coding/Running Environment
