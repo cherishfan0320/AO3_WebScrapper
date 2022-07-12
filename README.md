@@ -13,4 +13,4 @@ If meet error, try to break down pages, and refresh/wait for several mins to run
 😉❤️ <br />
 
  <br />
-![My animated logo](FXHfdoYWYAALXKx.jpeg)
+![My animated logo](/FXHfdoYWYAALXKx.jpeg)
