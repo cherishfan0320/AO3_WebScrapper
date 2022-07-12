@@ -12,5 +12,6 @@ If meet error, try to break down pages, and refresh/wait for several mins to run
 **Also, come check my Twitter for Steddie Art Works on twitter@CherishFR999** <br />
 😉❤️ <br />
 
- <br />
-![steveH](https://github.com/cherishfan0320/AO3_WebScrapper/blob/2301e3b89241439bfdc39c0bd6389eb26486dee2/FXHfdoYWYAALXKx.jpeg)
+
+![steveH](/FXHfdoYWYAALXKx.jpeg)
+![steveH](/steddie_pic.jpeg)
