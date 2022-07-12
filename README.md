@@ -9,7 +9,7 @@ Used CoLab to run everything, csv file can save locally. <br />
 Might face problem when scraping multiple pages(sometimes have errors after 120 pages) <br />
 If meet error, try to break down pages, and refresh/wait for several mins to run again. <br />
 
-**Also, come check my Twitter for Steddie Art Works on twitter@[CherishFR999](https://twitter.com/cherishFR999)** <br />
+**Also, come check my Twitter for Art Works @[CherishFR999](https://twitter.com/cherishFR999)** <br />
 😉❤️ <br />
 
 
