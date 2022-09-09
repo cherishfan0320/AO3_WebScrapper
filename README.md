@@ -16,4 +16,3 @@ Further development continues.<br />
 
 
 ![steveH](/FXHfdoYWYAALXKx.jpeg)
-![steveH](/steddie_pic.jpeg)
